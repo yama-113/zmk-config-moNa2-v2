@@ -1,3 +1,5 @@
+https://nickcoutsos.github.io/keymap-editor
+
 COROPITを使用する方は以下のようにコードを編集してください。
 
 mona2_r.overlay
